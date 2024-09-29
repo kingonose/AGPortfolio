@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
     typeEffect(heading, welcomeText, 100);
 
     // Short paragraph after the h1 with typing effect
-    const shortParagraph = "I'm a Graphics and UI/UX Designer, Front-web developer and Upcoming Software Engineer passionate about creating amazing designs and websites.";
+    const shortParagraph = "I'm a Graphics and UI/UX Designer, Front-end developer and Upcoming Software Engineer passionate about creating amazing designs and websites.";
     typeEffect(paragraph, shortParagraph, 50);
 });
 
