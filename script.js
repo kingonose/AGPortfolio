@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
     typeEffect(heading, welcomeText, 100);
 
     // Short paragraph after the h1 with typing effect
-    const shortParagraph = "I'm a Graphics and UI/UX Designer, Front-web developer and Upcoming Software Engineer passionate about creating amazing designs and websites.";
+    const shortParagraph = "I'm a Designer, Developer and Upcoming AI/Software Engineer passionate about creating amazing designs, softwares and mobile apps.";
     typeEffect(paragraph, shortParagraph, 50);
 });
 
@@ -33,4 +33,5 @@ let nav = document.querySelector('.navigation');
 ham.addEventListener('click', (e) => {
     e.preventDefault();
     nav.classList.toggle('show');
+
 })
